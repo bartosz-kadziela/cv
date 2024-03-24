@@ -16,30 +16,30 @@
                         BARTOSZ KĄDZIELA
                     </p>
                     <div class="mt-4 flex flex-col">
-                        <div class="flex flex-row gap-2" style="font-size:9px">
-                            <div class="flex flex-row gap-1">
+                        <div class="flex flex-row gap-2" style="font-size:9.3px">
+                            <div class="flex flex-row gap-1 hover:animate-pulse">
                                 <img src="/images/phone.svg" alt="Phone icon" class="h-4">
-                                <span class="hover:text-zinc-200">
+                                <span class="drop-shadow-xl">
                                     +48 506 106 848
                                 </span>
                             </div>
-                            <div class="flex flex-row gap-1">
+                            <div class="flex flex-row gap-1 hover:animate-pulse">
                                 <img src="/images/email.svg" alt="Email icon" class="h-4">
-                                <span class="hover:text-zinc-200">
+                                <span class="drop-shadow-xl">
                                     bartosz.kadziela@o2.pl
                                 </span>
                             </div>
-                            <div class="flex flex-row gap-1">
+                            <div class="flex flex-row gap-1 hover:animate-pulse">
                                 <img src="/images/linkedin.svg" alt="Linkedin icon" class="h-4">
-                                <a href="https://www.linkedin.com/in/bartosz-kadziela/" class="hover:underline hover:text-zinc-200">
+                                <a href="https://www.linkedin.com/in/bartosz-kadziela/" class="hover:underline drop-shadow-xl">
                                     linkedin.com/in/bartosz-kadziela
                                 </a>
                             </div>
                         </div>
-                        <div class="mt-2 flex flex-row gap-2" style="font-size:9px">
-                            <div class="flex flex-row gap-1">
+                        <div class="mt-2 flex flex-row gap-2" style="font-size:9.3px">
+                            <div class="flex flex-row gap-1 hover:animate-pulse">
                                 <img src="/images/github.svg" alt="Github icon" class="h-4">
-                                <a href="https://github.com/bartosz-kadziela" class="hover:underline hover:text-zinc-200">
+                                <a href="https://github.com/bartosz-kadziela" class="hover:underline drop-shadow-xl">
                                     github.com/bartosz-kadziela
                                 </a>
                             </div>
