@@ -33,15 +33,16 @@
                         </div>
                         <div class="mt-2 flex flex-row gap-2" style="font-size:9px">
                             <div class="flex flex-row gap-1">
-                            <img src="/images/github.svg" alt="Github icon" class="h-4">
-                            github.com/bartosz-kadziela
+                                <img src="/images/github.svg" alt="Github icon" class="h-4">
+                                github.com/bartosz-kadziela
+                            </div>
                         </div>
                     </div>
                 </div>
             </header>
             <main class="bg-white" style="height: 560px">
             </main>
-            <footer class="bg-red-700" style="height: 59px" >
+            <footer class="bg-red-700" style="height: 59px">
             </footer>
         </div>
     </body>
