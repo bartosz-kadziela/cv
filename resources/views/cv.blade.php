@@ -53,7 +53,7 @@
                     <h1 class="text-lg font-bold" style="font-family:Poppins">
                         About Me
                     </h1>
-                    <p>
+                    <p class="pt-1">
                         About Me Body
                     <p>
                 </div>
@@ -62,11 +62,16 @@
                         Work Experience
                     </h1>
                     <div class="flex flex-row">
-                        <div class="flex flex-col pr-4">
-                            Line with bulletpoints divs
+                        <div class="flex flex-col pr-4 pt-2">
+                            <div class="border-2 border-black h-4 w-4 rounded-full"style="border-width:1,5px">
+                            </div>
+                            <div class="bg-black mx-1.5 h-96" style="width:1px">
+                            </div>
                         </div>
                         <div class="flex flex-col">
-                            Work Experience Body
+                            <p class= "pt-1">
+                                11/2021 - 03/2024 | Takeda S.C.E
+                            </p>
                         </div>
                     </div>
                 </div>
