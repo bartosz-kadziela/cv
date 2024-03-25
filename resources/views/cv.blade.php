@@ -10,7 +10,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     </head>
-    <body class="bg-slate-100">
+    <body class="bg-[url('/images/background.svg')]">
         <div class="flex flex-col w-full max-w-2xl mx-auto">
             <header class="relative bg-red-700" style="height: 180px">
                 <img src="/images/Cv_photo.jpg" alt="CV avatar photo" class="absolute inset-0 rounded-full border-8 border-white m-2" style="height: 220px">
@@ -66,13 +66,13 @@
                     <p>
                     <div class="pt-2 font-normal" style="font-size:10px">
                         <div class="flex inline-flex">
-                            <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-0.5">
+                            <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-0.5 hover:animate-spin">
                             <p>
                                 Lodz,Poland
                             </p>
                         </div>
                         <div class="flex inline-flex">
-                            <img src="/images/calendar.svg" alt="Calendar icon" class="h-4 ml-2 mr-1">
+                            <img src="/images/calendar.svg" alt="Calendar icon" class="h-4 ml-2 mr-1 hover:animate-spin">
                             <p>
                                 26/05/1992
                             </p>
