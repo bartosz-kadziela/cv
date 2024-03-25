@@ -6,13 +6,14 @@
         <title>
             Bartosz Kądziela - CV
         </title>
+        <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
     </head>
     <body class="bg-slate-100">
         <div class="flex flex-col w-full max-w-2xl mx-auto">
             <header class="relative bg-red-700" style="height: 180px">
                 <img src="/images/Cv_photo.jpg" alt="CV avatar photo" class="absolute inset-0 rounded-full border-8 border-white m-2" style="height: 220px">
                 <div class="pl-64 pr-4 pt-10 text-white flex flex-col">
-                    <p class="tracking-wide text-4xl tracking-widest font-medium">
+                    <p class="tracking-wide text-4xl tracking-widest font-semibold" style="font-family:Poppins">
                         BARTOSZ KĄDZIELA
                     </p>
                     <div class="mt-4 flex flex-col">
@@ -48,20 +49,20 @@
                 </div>
             </header>
             <main class="bg-white flex flex-row" style="height: 560px">
-                <div class="flex flex-col mt-14">
-                    <h1>
+                <div class="flex flex-col mt-14 mx-12">
+                    <h1 class="text-lg font-bold" style="font-family:Poppins">
                         About Me
                     </h1>
                     <p>
                         About Me Body
                     <p>
                 </div>
-                <div class="flex flex-col mt-14">
-                    <h1>
+                <div class="flex flex-col mt-14" style="font-family:Poppins">
+                    <h1 class="text-lg font-bold" style="font-family:Poppins">
                         Work Experience
                     </h1>
                     <div class="flex flex-row">
-                        <div class="flex flex-col">
+                        <div class="flex flex-col pr-4">
                             Line with bulletpoints divs
                         </div>
                         <div class="flex flex-col">
