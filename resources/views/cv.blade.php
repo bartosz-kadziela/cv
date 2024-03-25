@@ -51,21 +51,41 @@
                 </div>
             </header>
             <main class="bg-white flex flex-row" style="height: 560px">
-                <div class="flex flex-col mt-14 mx-12">
+                <div class="flex flex-col mt-12 mx-8 w-1/4">
                     <h1 class="text-lg font-bold" style="font-family:Poppins">
                         About Me
                     </h1>
-                    <p class="pt-1" style="font-family:Poppins">
-                        About Me Body
+                    <p class="pt-1 font-light text-wrap text-justify" style="font-size:10px">
+                        Former ServiceNow Business Analyst at
+                        Takeda SCE and Product Master Data
+                        Specialist at Fujitsu. Currently, I am
+                        learning web development, while
+                        simultaneously working on personal
+                        projects to further enhance myself in
+                        these areas.
                     <p>
+                    <div class="pt-2 font-normal" style="font-size:10px">
+                        <div class="flex inline-flex">
+                            <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-0.5">
+                            <p>
+                                Lodz,Poland
+                            </p>
+                        </div>
+                        <div class="flex inline-flex">
+                            <img src="/images/calendar.svg" alt="Calendar icon" class="h-4 ml-2 mr-1">
+                            <p>
+                                26/05/1992
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                <div class="flex flex-col mt-14" style="font-family:Poppins">
+                <div class="flex flex-col mt-12" style="font-family:Poppins">
                     <h1 class="text-lg font-bold" style="font-family:Poppins">
                         Work Experience
                     </h1>
                     <div class="flex flex-row">
-                        <div class="flex flex-col pr-4 pt-2 items-center">
-                            <div class="border-2 border-black h-4 w-4 rounded-full"style="border-width:1,5px">
+                        <div class="flex flex-col pr-4 pt-2.5 items-center">
+                            <div class="border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
                             </div>
                             <div class="bg-black h-96" style="width:1px">
                             </div>
@@ -74,6 +94,9 @@
                             <p class= "pt-1" style="font-family:Poppins">
                                 11/2021 - 03/2024 | Takeda S.C.E
                             </p>
+                            <h1 h1 class="text-md font-bold" style="font-family:Poppins">
+                                Business Analyst (Service Now)
+                            </h1>
                         </div>
                     </div>
                 </div>
