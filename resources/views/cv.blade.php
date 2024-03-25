@@ -47,7 +47,28 @@
                     </div>
                 </div>
             </header>
-            <main class="bg-white" style="height: 560px">
+            <main class="bg-white flex flex-row" style="height: 560px">
+                <div class="flex flex-col mt-14">
+                    <h1>
+                        About Me
+                    </h1>
+                    <p>
+                        About Me Body
+                    <p>
+                </div>
+                <div class="flex flex-col mt-14">
+                    <h1>
+                        Work Experience
+                    </h1>
+                    <div class="flex flex-row">
+                        <div class="flex flex-col">
+                            Line with bulletpoints divs
+                        </div>
+                        <div class="flex flex-col">
+                            Work Experience Body
+                        </div>
+                    </div>
+                </div>
             </main>
             <footer class="bg-red-700" style="height: 59px">
             </footer>
