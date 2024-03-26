@@ -12,9 +12,9 @@
     </head>
     <body class="bg-[url('/images/background.svg')]" style="font-family:Poppins">
         <div class="flex flex-col w-full max-w-2xl mx-auto">
-            <header class="relative" style="height:140px; background-color:rgb(173,33,57)">
-                <img src="/images/Cv_photo.jpg" alt="CV avatar photo" tabindex="0" class="focus:animate-bounce transition-colors duration-300 cursor-pointer absolute inset-0 rounded-full border-8 border-white hover:border-black m-2" style="height: 180px">
-                <div class="pl-56 pr-4 pt-4 text-white flex flex-col">
+            <header class="relative" style="height:170px; background-color:rgb(173,33,57)">
+                <img src="/images/Cv_photo.jpg" alt="CV avatar photo" tabindex="0" class="focus:animate-bounce transition-colors duration-300 cursor-pointer absolute inset-0 rounded-full border-8 border-white hover:border-black m-2" style="height: 210px">
+                <div class="pl-60 pr-4 pt-7 text-white flex flex-col">
                     <p class="tracking-wide tracking-widest font-semibold" style="font-size:37px">
                         BARTOSZ KĄDZIELA
                     </p>
