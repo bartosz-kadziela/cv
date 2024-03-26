@@ -12,7 +12,7 @@
     </head>
     <body class="bg-[url('/images/background.svg')]" style="font-family:Poppins">
         <div class="flex flex-col w-full max-w-2xl mx-auto">
-            <header class="relative bg-red-700" style="height: 140px">
+            <header class="relative" style="height:140px; background-color:rgb(173,33,57)">
                 <img src="/images/Cv_photo.jpg" alt="CV avatar photo" tabindex="0" class="focus:animate-bounce transition-colors duration-300 cursor-pointer absolute inset-0 rounded-full border-8 border-white hover:border-black m-2" style="height: 180px">
                 <div class="pl-56 pr-4 pt-4 text-white flex flex-col">
                     <p class="tracking-wide tracking-widest font-semibold" style="font-size:37px">
@@ -154,8 +154,8 @@
                     </div>
                 </div>
             </main>
-            <footer class="bg-red-700" style="height: 59px">
-                <p class="pt-2 px-7 text-justify font-light text-white leading-tight"style="font-size:9px">
+            <footer class="bg-red-700" style="height: 59px; font-size:9px; background-color:rgb(173,33,57)">
+                <p class="pt-2 px-7 text-justify font-light text-white leading-tight">
                     I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
                 </p>
             </footer>
