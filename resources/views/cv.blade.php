@@ -55,7 +55,7 @@
                     <h1 class="text-lg font-bold" style="font-family:Poppins">
                         About Me
                     </h1>
-                    <p class="pt-1 font-light text-wrap text-justify leading-tight" style="font-size:10px">
+                    <p class="pt-1 font-light text-wrap text-justify leading-tight tracking-wide" style="font-size:10px">
                         Former ServiceNow Business Analyst at
                         Takeda SCE and Product Master Data
                         Specialist at Fujitsu. Currently, I am
@@ -105,12 +105,12 @@
                             <h1 class="font-bold pb-1" style="font-family:Poppins">
                                 Business Analyst (Service Now)
                             </h1>
-                            <ul class="list-none mr-6 font-light leading-tight" style="font-size:10px">
+                            <ul class="list-none mr-6 font-light leading-tight tracking-wide" style="font-size:10px">
                                 <li>- Collecting User Requirements - meetings with stakeholders</li>
                                 <li>- Managing User Stories in Service Now Visual Task Board (Agile)</li>
                                 <li>- Preparing Solution design mock-ups for ServiceNow enhancements</li>
                                 <li>- Creating Acceptance Criteria for the development team</li>
-                                <li>- Testing ServiceNow enhancements in Development/QA/Test environments</li>
+                                <li>- Testing ServiceNow enhancements in Dev/QA/Test environments</li>
                                 <li>- Creating ServiceNow Reports, Dashboards and Knowledge Articles</li>
                                 <li class="mb-1">- Holding Peer Review sessions for more complex enhancements</li>
                             </ul>
@@ -120,11 +120,11 @@
                             <h1 class="font-bold pb-1" style="font-family:Poppins">
                                 Technical Operations Specialist (Master Data)
                             </h1>
-                            <ul class="list-none mr-6 font-light leading-tight" style="font-size:10px">
-                                <li>- Implementing and configuring Primergy/Primequest servers in SAP PP/MM</li>
+                            <ul class="list-none mr-6 font-light leading-tight tracking-wide" style="font-size:10px">
+                                <li>- Implementing and configuring Primergy servers in SAP PP/MM</li>
                                 <li>- Maintaining data throughout the whole Product Life Cycle</li>
-                                <li>- Coordinating data transfer between SharePoint, JPDM, SAP environments</li>
-                                <li class="mb-1">- Cooperating with Product Management Team from Germany and Japan </li>
+                                <li>- Coordinating data transfer across SharePoint, JPDM, SAP</li>
+                                <li class="mb-1">- Cooperating with Product Management Team from Germany & Japan </li>
                             </ul>
                             <p class= "pt-1" style="font-family:Poppins">
                                 12/2017 - 08/2019 | Fujitsu Technology Solutions
@@ -132,7 +132,7 @@
                             <h1 class="font-bold pb-1" style="font-family:Poppins">
                                 Service Process Controller
                             </h1>
-                            <ul class="list-none mr-6 font-light leading-tight" style="font-size:10px">
+                            <ul class="list-none mr-6 font-light leading-tight tracking-wide" style="font-size:10px">
                                 <li>- Managing and maintaining Service Desk processes</li>
                                 <li>- Reviewing Call Quality and managing incidents</li>
                                 <li>- Managing escalations for UK customer</li>
@@ -145,7 +145,7 @@
                             <h1 class="font-bold pb-1" style="font-family:Poppins">
                                 Service Desk Agent
                             </h1>
-                            <ul class="list-none mr-6 font-light leading-tight" style="font-size:10px">
+                            <ul class="list-none mr-6 font-light leading-tight tracking-wide" style="font-size:10px">
                                 <li>- Providing technical support for customers based in UK & US - ServiceNow</li>
                                 <li>- Supporting customers via call, email, and ServiceNow web chat </li>
                                 <li>- Building and utilizing ServiceNow Knowledge Articles</li>
