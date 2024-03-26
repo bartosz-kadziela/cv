@@ -78,6 +78,33 @@
                             </p>
                         </a>
                     </div>
+                    <h1 class="pt-2 text-lg font-bold">
+                        Skills
+                    </h1>
+                    <ul class="ml-3 pt-2 font-light tracking-wide list-disc leading-5" style="font-size:10px">
+                        <li>Business Analysis</li>
+                        <li>ServiceNow</li>
+                        <li>SAP PP/MM</li>
+                        <li>ITIL practices</li>
+                        <li>Master Data</li>
+                        <li>Microsoft Office</li>
+                        <li>Red Box Call Recording</li>
+                    </ul>
+                    <h1 class="pt-2 text-lg font-bold">
+                        Languages
+                    </h1>
+                    <div class="pt-2 flex flex-row tracking-wide leading-5" style="font-size:10px">
+                        <div class="flex flex-col font-extrabold">
+                            <span>Polish</span>
+                            <span>English</span>
+                            <span>French</span>
+                        </div>
+                        <div class="ml-4 flex flex-col">
+                            <p>Native / C2</p>
+                            <p>Advanced / C1</p>
+                            <p>Basic / A2</p>
+                        </div>
+                    </div>
                 </div>
                 <div class="flex flex-col mt-14">
                     <h1 class="text-lg font-bold">
@@ -146,8 +173,8 @@
                                 Service Desk Agent
                             </h1>
                             <ul class="list-none mr-6 font-light tracking-wide" style="font-size:10px">
-                                <li>- Providing technical support for customers based in UK & US - ServiceNow</li>
-                                <li>- Supporting customers via call, email, and ServiceNow web chat </li>
+                                <li>- Providing technical support for clients based in UK & US - ServiceNow</li>
+                                <li>- Supporting clients via call, email, and ServiceNow web chat </li>
                                 <li>- Building and utilizing ServiceNow Knowledge Articles</li>
                             </ul>
                         </div>
