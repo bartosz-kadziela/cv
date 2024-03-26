@@ -20,32 +20,32 @@
                     </p>
                     <div class="mt-2 flex flex-col">
                         <div class="flex flex-row gap-2" style="font-size:10px">
-                            <div class="flex flex-row gap-1 hover:animate-pulse">
+                            <a href="tel:+48506106848" class="flex flex-row gap-1 hover:underline hover:animate-pulse">
                                 <img src="/images/phone.svg" alt="Phone icon" class="h-4">
-                                <a href="tel:+48506106848" class="hover:underline drop-shadow-xl">
+                                <p>
                                     +48 506 106 848
-                                </a>
-                            </div>
-                            <div class="flex flex-row gap-1 hover:animate-pulse">
+                                </p>
+                            </a>
+                            <a href="mailto:bartosz.kadziela@o2.pl" class="flex flex-row gap-1 hover:underline hover:animate-pulse">
                                 <img src="/images/email.svg" alt="Email icon" class="h-4">
-                                <a href="mailto:bartosz.kadziela@o2.pl" class="hover:underline drop-shadow-xl">
+                                <p>
                                     bartosz.kadziela@o2.pl
-                                </a>
-                            </div>
-                            <div class="flex flex-row gap-1 hover:animate-pulse">
+                                </p>
+                            </a>
+                            <a href="https://linkedin.com/in/bartosz-kadziela" class="flex flex-row gap-1 hover:underline hover:animate-pulse" target="_blank">
                                 <img src="/images/linkedin.svg" alt="Linkedin icon" class="h-4">
-                                <a href="https://linkedin.com/in/bartosz-kadziela" class="hover:underline drop-shadow-xl">
+                                <p>
                                     linkedin.com/in/bartosz-kadziela
-                                </a>
-                            </div>
+                                </p>
+                            </a>
                         </div>
                         <div class="mt-2 flex flex-row gap-2" style="font-size:9.3px">
-                            <div class="flex flex-row gap-1 hover:animate-pulse">
+                            <a href="https://github.com/bartosz-kadziela" class="flex flex-row gap-1 hover:underline hover:animate-pulse" target="_blank">
                                 <img src="/images/github.svg" alt="Github icon" class="h-4">
-                                <a href="https://github.com/bartosz-kadziela" class="hover:underline drop-shadow-xl">
+                                <p>
                                     github.com/bartosz-kadziela
-                                </a>
-                            </div>
+                                </p>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -65,18 +65,18 @@
                         these areas.
                     <p>
                     <div class="pt-2 font-normal border-b" style="font-size:10px">
-                        <div class="flex inline-flex focus:animate-bounce cursor-pointer" tabindex="0">
+                        <a href="https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA" class="hover:underline flex inline-flex focus:animate-bounce" target="_blank">
                             <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-0.5">
                             <p>
-                                Lodz,Poland
+                                Lodz, Poland
                             </p>
-                        </div>
-                        <div class="flex inline-flex focus:animate-bounce cursor-pointer" tabindex="0">
+                        </a>
+                        <a href="https://en.wikipedia.org/wiki/May_26" class="hover:underline flex inline-flex focus:animate-bounce" target="_blank">
                             <img src="/images/calendar.svg" alt="Calendar icon" class="h-4 ml-2 mr-1 focus:animate-bounce">
                             <p>
                                 26/05/1992
                             </p>
-                        </div>
+                        </a>
                     </div>
                 </div>
                 <div class="flex flex-col mt-12" style="font-family:Poppins">
