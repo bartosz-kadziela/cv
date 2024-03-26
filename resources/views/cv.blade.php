@@ -13,7 +13,7 @@
     <body class="bg-[url('/images/background.svg')]">
         <div class="flex flex-col w-full max-w-2xl mx-auto">
             <header class="relative bg-red-700" style="height: 140px">
-                <img src="/images/Cv_photo.jpg" alt="CV avatar photo" tabindex="0" class="focus:animate-bounce absolute inset-0 rounded-full border-8 border-white hover:border-black m-2" style="height: 180px">
+                <img src="/images/Cv_photo.jpg" alt="CV avatar photo" tabindex="0" class="focus:animate-bounce transition-colors duration-300 cursor-pointer absolute inset-0 rounded-full border-8 border-white hover:border-black m-2" style="height: 180px">
                 <div class="pl-56 pr-4 pt-4 text-white flex flex-col">
                     <p class="tracking-wide tracking-widest font-semibold" style="font-family:Poppins; font-size:37px">
                         BARTOSZ KĄDZIELA
@@ -65,13 +65,13 @@
                         these areas.
                     <p>
                     <div class="pt-2 font-normal border-b" style="font-size:10px">
-                        <div class="flex inline-flex focus:animate-bounce" tabindex="0">
+                        <div class="flex inline-flex focus:animate-bounce cursor-pointer" tabindex="0">
                             <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-0.5">
                             <p>
                                 Lodz,Poland
                             </p>
                         </div>
-                        <div class="flex inline-flex focus:animate-bounce" tabindex="0">
+                        <div class="flex inline-flex focus:animate-bounce cursor-pointer" tabindex="0">
                             <img src="/images/calendar.svg" alt="Calendar icon" class="h-4 ml-2 mr-1 focus:animate-bounce">
                             <p>
                                 26/05/1992
@@ -85,15 +85,15 @@
                     </h1>
                     <div class="flex flex-row">
                         <div class="flex flex-col pr-4 pt-2.5 items-center">
-                            <button class="hover:bg-black focus:animate-pulse focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                            <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
                             </button>
                             <div class="bg-black" style="width:1px; height: 153px">
                             </div>
-                            <button class="hover:bg-black focus:animate-pulse focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                            <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
                             </button>
                             <div class="bg-black" style="width:1px; height: 108px">
                             </div>
-                            <button class="hover:bg-black focus:animate-pulse focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                            <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
                             </button>
                             <div class="bg-black" style="width:1px; height: 108px">
                             </div>
