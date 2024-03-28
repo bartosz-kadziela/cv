@@ -94,7 +94,7 @@
                             projects to further enhance myself in
                             these areas.
                         <p>
-                        <div class="pt-2.5 font-normal" style="font-size:10px">
+                        <div class="pt-4 font-normal" style="font-size:10px">
                             <a href="https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA" class="hover:underline flex inline-flex focus:animate-bounce" target="_blank">
                                 <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-0.5">
                                 <p>
@@ -108,7 +108,7 @@
                                 </p>
                             </a>
                         </div>
-                        <h1 class="pt-3 mt-2 border-t-2 text-lg font-bold">
+                        <h1 class="pt-5 mt-5 border-t-2 text-lg font-bold">
                             Skills
                         </h1>
                         <ul class="ml-3 pt-2 font-light tracking-wide list-disc leading-5" style="font-size:10px">
@@ -120,7 +120,7 @@
                             <li>Microsoft Office</li>
                             <li>Red Box Call Recording</li>
                         </ul>
-                        <h1 class="pt-3 mt-2 border-t-2 text-lg font-bold">
+                        <h1 class="pt-5 mt-5 border-t-2 text-lg font-bold">
                             Languages
                         </h1>
                         <div class="pt-2 flex flex-row tracking-wide leading-5" style="font-size:10px">
@@ -135,7 +135,7 @@
                                 <p>Basic / A2</p>
                             </div>
                         </div>
-                        <h1 class="pt-3 mt-2 border-t-2 text-lg font-bold">
+                        <h1 class="pt-5 mt-5 border-t-2 text-lg font-bold">
                             Programming
                         </h1>
                         <ul class="ml-3 pt-2 font-light tracking-wide list-disc leading-5" style="font-size:10px">
@@ -162,10 +162,14 @@
                                 </div>
                                 <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
                                 </button>
-                                <div class="bg-black" style="width:1px; height: 108px">
+                                <div class="bg-black" style="width:1px; height: 122px">
+                                </div>
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full" style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 73px">
                                 </div>
                             </div>
-                            <div class="flex flex-col">
+                            <div class="flex flex-col border-b-2" style="padding-bottom: 18px">
                                 <p class="pt-2 tracking-wide text-sm">
                                     11/2021 - 03/2024 | Takeda S.C.E
                                 </p>
