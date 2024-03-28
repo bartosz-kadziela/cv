@@ -51,6 +51,13 @@
                                 </a>
                             </div>
                         </div>
+                        <div class="flex flex-row-reverse pr-3 items-center">
+                            <button type="button" class="collapsible border-2 rounded-lg text-sm px-2">
+                                <span>
+                                    Download CV
+                                </span>
+                            </button>
+                        </div>
                     </div>
                 </header>
                 <main class="bg-white flex flex-row" style="height: 2000px">
