@@ -17,15 +17,14 @@
     border-radius: 0.5rem;
     border-style: solid;
     border-color: rgb(173,33,57);
-    width: 104px;
+    width: 102px;
     background-color:white;
     color: black;
 }
 .collapsible:after {
-    padding-left: 5px;
+    padding-left: 2px;
     font-size: 0.75rem;
-    content: '+';
-    font-weight: bold;
+    content: '+';;
 }
 .active:after {
     content: "-";
