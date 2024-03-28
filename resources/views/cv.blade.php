@@ -6,6 +6,8 @@
         <title>
             Bartosz Kądziela - CV
         </title>
+        @vite('resources/js/app.js')
+        @vite('resources/css/app.css')
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -51,12 +53,18 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="flex flex-row-reverse pr-3 items-center">
-                            <button type="button" class="collapsible border-2 rounded-lg text-sm px-2">
-                                <span>
-                                    Download CV
-                                </span>
+                        <div class="pl-72 items-center">
+                            <button type="button" class="collapsible border-2 rounded-lg text-xs px-2">
+                                Download CV
                             </button>
+                                <div class="content">
+                                    <button class="block">
+                                        English
+                                    </button>
+                                    <button >
+                                        Polish
+                                    </button>
+                                </div>
                         </div>
                     </div>
                 </header>
