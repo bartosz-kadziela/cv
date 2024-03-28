@@ -94,7 +94,7 @@
                             projects to further enhance myself in
                             these areas.
                         <p>
-                        <div class="pt-2.5 font-normal border-b" style="font-size:10px">
+                        <div class="pt-2.5 font-normal" style="font-size:10px">
                             <a href="https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA" class="hover:underline flex inline-flex focus:animate-bounce" target="_blank">
                                 <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-0.5">
                                 <p>
@@ -108,7 +108,7 @@
                                 </p>
                             </a>
                         </div>
-                        <h1 class="pt-2 text-lg font-bold">
+                        <h1 class="pt-3 mt-2 border-t-2 text-lg font-bold">
                             Skills
                         </h1>
                         <ul class="ml-3 pt-2 font-light tracking-wide list-disc leading-5" style="font-size:10px">
@@ -120,7 +120,7 @@
                             <li>Microsoft Office</li>
                             <li>Red Box Call Recording</li>
                         </ul>
-                        <h1 class="pt-2 text-lg font-bold">
+                        <h1 class="pt-3 mt-2 border-t-2 text-lg font-bold">
                             Languages
                         </h1>
                         <div class="pt-2 flex flex-row tracking-wide leading-5" style="font-size:10px">
@@ -135,6 +135,16 @@
                                 <p>Basic / A2</p>
                             </div>
                         </div>
+                        <h1 class="pt-3 mt-2 border-t-2 text-lg font-bold">
+                            Programming
+                        </h1>
+                        <ul class="ml-3 pt-2 font-light tracking-wide list-disc leading-5" style="font-size:10px">
+                            <li>HTML</li>
+                            <li>CSS & Tailwind CSS</li>
+                            <li>PHP (beginner level)</li>
+                            <li>Javascript (beginner level)</li>
+                            <li>Laravel (beginner level)</li>
+                        </ul>
                     </div>
                     <div data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="800" class="flex flex-col mt-14">
                         <h1 class="text-lg font-bold">
