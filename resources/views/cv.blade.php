@@ -53,15 +53,19 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="pl-72 items-center">
-                            <button type="button" class="collapsible border-2 rounded-lg text-xs px-2">
+                        <div class="relative pl-72">
+                        <span class="absolute flex items-center justify-center h-2 w-2" style="left: 285px; top:-2px">
+                            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-80"></span>
+                            <span class="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
+                        </span>
+                            <button type="button" class="collapsible border-2 text-xs px-2">
                                 Download CV
                             </button>
-                                <div class="content">
-                                    <button class="block">
+                                <div class="text-xs content">
+                                    <button class="pb-0.5 block">
                                         English
                                     </button>
-                                    <button >
+                                    <button class="block">
                                         Polish
                                     </button>
                                 </div>
