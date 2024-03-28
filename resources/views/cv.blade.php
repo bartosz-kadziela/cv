@@ -53,22 +53,30 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="relative pl-72">
-                        <span class="absolute flex items-center justify-center h-2 w-2" style="left: 285px; top:-2px">
-                            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-80"></span>
-                            <span class="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
-                        </span>
-                            <button type="button" class="collapsible border-2 text-xs px-2">
+                        <div class="relative" style="padding-left: 306px">
+                            <span class="absolute flex items-center justify-center h-2 w-2" style="left: 304px; top:-1px">
+                                <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-80"></span>
+                                <span class="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
+                            </span>
+                            <button type="button" class="collapsible rounded-lg border-2 text-xs px-2" style="font-size:10px">
                                 Download CV
                             </button>
-                                <div class="text-xs content">
-                                    <button class="pb-0.5 block">
-                                        English
-                                    </button>
-                                    <button class="block">
-                                        Polish
-                                    </button>
+                            <div class="content" style="font-size:10px">
+                                <div class="flex flex-col">
+                                    <a href="pdf/CV_EN _Bartosz_Kadziela_2024.pdf" download="CV_EN _Bartosz_Kadziela_2024.pdf" class="hover:underline hover:animate-pulse" target="_blank">
+                                        <button class="flex flex-row justify-center pb-0.5">
+                                            <img src="/images/download.svg" alt="Download EN CV" class="h-4 pr-2">
+                                            English
+                                        </button>
+                                    </a>
+                                    <a href="pdf/CV_PL_Bartosz_Kadziela_2024.pdf" download="CV_PL_Bartosz_Kadziela_2024.pdf" class="hover:underline hover:animate-pulse" target="_blank">
+                                        <button class="flex flex-row justify-center pb-0.5">
+                                            <img src="/images/download.svg" alt="Download PL CV" class="h-4 pr-2">
+                                            Polish
+                                        </button>
+                                    </a>
                                 </div>
+                            </div>
                         </div>
                     </div>
                 </header>

@@ -17,13 +17,13 @@
     border-radius: 0.5rem;
     border-style: solid;
     border-color: rgb(173,33,57);
-    width: 120px;
+    width: 104px;
     background-color:white;
     color: black;
 }
 .collapsible:after {
     padding-left: 5px;
-    font-size: 1rem;
+    font-size: 0.75rem;
     content: '+';
     font-weight: bold;
 }
