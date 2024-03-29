@@ -65,16 +65,16 @@
                                 Download CV
                             </button>
                             <div class="content" style="font-size:10px">
-                                <div class="flex flex-col font-semibold">
-                                    <a href="pdf/CV_EN _Bartosz_Kadziela_2024.pdf" download="CV_EN _Bartosz_Kadziela_2024.pdf" class="hover:underline hover:animate-pulse" target="_blank">
+                                <div class="font-semibold flex flex-col">
+                                    <a href="pdf/CV_EN _Bartosz_Kadziela_2024.pdf" download="CV_EN _Bartosz_Kadziela_2024.pdf" class="pl-1   custom-hover" target="_blank">
                                         <button class="flex flex-row justify-center pb-0.5">
-                                            <img src="/images/download.svg" alt="Download EN CV" class="h-4 pr-2">
+                                            <img src="/images/download.svg" alt="Download EN CV" class="h-4 pr-1">
                                             English
                                         </button>
                                     </a>
-                                    <a href="pdf/CV_PL_Bartosz_Kadziela_2024.pdf" download="CV_PL_Bartosz_Kadziela_2024.pdf" class="hover:underline hover:animate-pulse" target="_blank">
+                                    <a href="pdf/CV_PL_Bartosz_Kadziela_2024.pdf" download="CV_PL_Bartosz_Kadziela_2024.pdf" class="pl-1  custom-hover" target="_blank">
                                         <button class="flex flex-row justify-center pb-0.5">
-                                            <img src="/images/download.svg" alt="Download PL CV" class="h-4 pr-2">
+                                            <img src="/images/download.svg" alt="Download PL CV" class="h-4 pr-1">
                                             Polish
                                         </button>
                                     </a>

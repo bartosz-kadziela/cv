@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function() {
         var body = document.body;
         var html = document.documentElement;
         var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
-        var scrollHeight = 0.42 * height;
+        var scrollHeight = 0.44 * height;
 
         window.scrollTo({
             top: scrollHeight,
