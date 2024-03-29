@@ -15,6 +15,9 @@
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     </head>
     <body style="font-family:Poppins; background-image:url('/images/background.svg')">
+        <div>
+            <button id="scrollToBottomBtn">Scroll to Bottom</button>
+        </div>
         <div data-aos="fade-down" data-aos-easing="ease-in-sine" data-aos-duration="800">
             <div class="flex flex-col w-full max-w-2xl mx-auto drop-shadow-xl">
                 <header class="relative" style="height:170px; background-color:rgb(173,33,57)">
@@ -80,7 +83,7 @@
                         </div>
                     </div>
                 </header>
-                <main class="bg-white flex flex-row" style="height: 2000px">
+                <main class="bg-white flex flex-row" style="height: 1500px">
                     <div data-aos="fade-right" data-aos-easing="ease-in-sine" data-aos-duration="800" class="flex flex-col mt-14 mx-7" style="width: 30%">
                         <h1 class="text-xl font-semibold">
                             About Me
@@ -156,6 +159,25 @@
                             <p class="pb-2">07/2017 | Fujitsu Technology Solutions Sp. z o.o.</p>
                             <p class="pb-3 font-bold">Fujitsu Centrica Finest Award for Best Performance</p>
                         </div>
+                        <h1 class="pt-5 mt-5 border-t-2 text-xl font-semibold">
+                            Pro Bono Work
+                        </h1>
+                        <div class="pt-2 flex flex-col tracking-wide" style="font-size:10px">
+                            <p class="pb-2 font-light">09/2016 - Now</p>
+                            <p class="pb-3 font-bold">English teacher for A1-B2 level</p>
+                        </div>
+                        <h1 class="pt-5 mt-5 border-t-2 text-xl font-semibold">
+                            Interests
+                        </h1>
+                        <ul class="ml-3 pt-2 font-light tracking-wide list-disc leading-5" style="font-size:10px">
+                            <li>Foreign languages</li>
+                            <li>English literature</li>
+                            <li>Chess</li>
+                            <li>Travelling</li>
+                            <li>Court tennis</li>
+                            <li>Calisthenics</li>
+                            <li>Swimming</li>
+                        </ul>
                     </div>
                     <div data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="800" class="flex flex-col mt-14">
                         <h1 class="text-xl font-semibold">
@@ -354,7 +376,7 @@
                         </div>
                     </div>
                 </main>
-                <footer data-aos="zoom-out-down" data-aos-easing="ease-in-sine" data-aos-duration="1150" class="bg-red-700" style="height: 59px; font-size:9px; background-color:rgb(173,33,57)">
+                <footer style="height: 59px; font-size:9px; background-color:rgb(173,33,57)">
                     <p class="pt-2 px-7 text-justify font-light text-white leading-tight">
                         I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
                     </p>
