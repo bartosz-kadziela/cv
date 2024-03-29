@@ -82,7 +82,7 @@
                 </header>
                 <main class="bg-white flex flex-row" style="height: 2000px">
                     <div data-aos="fade-right" data-aos-easing="ease-in-sine" data-aos-duration="800" class="flex flex-col mt-14 mx-7 w-1/4">
-                        <h1 class="text-lg font-bold">
+                        <h1 class="text-xl font-semibold">
                             About Me
                         </h1>
                         <p class="pt-2 font-light text-wrap text-justify tracking-wide" style="font-size:10px">
@@ -94,7 +94,7 @@
                             projects to further enhance myself in
                             these areas.
                         <p>
-                        <div class="pt-4 font-normal" style="font-size:10px">
+                        <div class="pt-4 font-normal flex flex-row" style="font-size:10px">
                             <a href="https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA" class="hover:underline flex inline-flex focus:animate-bounce" target="_blank">
                                 <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-0.5">
                                 <p>
@@ -108,7 +108,7 @@
                                 </p>
                             </a>
                         </div>
-                        <h1 class="pt-5 mt-5 border-t-2 text-lg font-bold">
+                        <h1 class="pt-5 mt-5 border-t-2 text-xl font-semibold">
                             Skills
                         </h1>
                         <ul class="ml-3 pt-2 font-light tracking-wide list-disc leading-5" style="font-size:10px">
@@ -120,7 +120,7 @@
                             <li>Microsoft Office</li>
                             <li>Red Box Call Recording</li>
                         </ul>
-                        <h1 class="pt-5 mt-5 border-t-2 text-lg font-bold">
+                        <h1 class="pt-5 mt-5 border-t-2 text-xl font-semibold">
                             Languages
                         </h1>
                         <div class="pt-2 flex flex-row tracking-wide leading-5" style="font-size:10px">
@@ -135,7 +135,7 @@
                                 <p>Basic / A2</p>
                             </div>
                         </div>
-                        <h1 class="pt-5 mt-5 border-t-2 text-lg font-bold">
+                        <h1 class="pt-5 mt-5 border-t-2 text-xl font-semibold">
                             Programming
                         </h1>
                         <ul class="ml-3 pt-2 font-light tracking-wide list-disc leading-5" style="font-size:10px">
@@ -147,7 +147,7 @@
                         </ul>
                     </div>
                     <div data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="800" class="flex flex-col mt-14">
-                        <h1 class="text-lg font-bold">
+                        <h1 class="text-xl font-semibold">
                             Work Experience
                         </h1>
                         <div class="flex flex-row">
@@ -169,7 +169,7 @@
                                 <div class="bg-black" style="width:1px; height: 73px">
                                 </div>
                             </div>
-                            <div class="flex flex-col border-b-2" style="padding-bottom: 18px">
+                            <div class="flex flex-col border-b-2" style="padding-bottom: 26px">
                                 <p class="pt-2 tracking-wide text-sm">
                                     11/2021 - 03/2024 | Takeda S.C.E
                                 </p>
@@ -221,6 +221,31 @@
                                     <li>- Supporting clients via call, email, and ServiceNow web chat </li>
                                     <li>- Building and utilizing ServiceNow Knowledge Articles</li>
                                 </ul>
+                            </div>
+                        </div>
+                        <h1 class="pt-5 text-xl font-semibold">
+                            Education
+                        </h1>
+                        <div class="flex flex-row">
+                            <div class="flex flex-col pr-4 pt-3 items-center">
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 34px">
+                                </div>
+                            </div>
+                            <div class="flex flex-col border-b-2" style="padding-bottom: 18px">
+                                <p class="pt-2 tracking-wide text-sm">
+                                    10/2014 - 07/2016 | University of Lodz
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Master - Logistics - Supply Chain Management
+                                </h1>
+                                <p class="pt-2 tracking-wide text-sm">
+                                    09/2015 - 05/2016 | University of the West of Scotland
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Master - Management - International Management
+                                </h1>
                             </div>
                         </div>
                     </div>
