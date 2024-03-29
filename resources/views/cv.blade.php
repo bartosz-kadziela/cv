@@ -16,7 +16,9 @@
     </head>
     <body style="font-family:Poppins; background-image:url('/images/background.svg')">
         <div>
-            <button id="scrollToBottomBtn">Scroll to Bottom</button>
+            <button id="scrollToBottomBtn">
+                Scroll to Bottom
+            </button>
         </div>
         <div data-aos="fade-down" data-aos-easing="ease-in-sine" data-aos-duration="800">
             <div class="flex flex-col w-full max-w-2xl mx-auto drop-shadow-xl">
