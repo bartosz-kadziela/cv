@@ -145,6 +145,17 @@
                             <li>Javascript (beginner level)</li>
                             <li>Laravel (beginner level)</li>
                         </ul>
+                        <h1 class="pt-5 mt-5 border-t-2 text-xl font-semibold">
+                            Awards
+                        </h1>
+                        <div class="pt-2 flex flex-col font-light tracking-wide" style="font-size:10px">
+                            <p class="pb-2">02/2020 | Fujitsu Technology Solutions Sp. z o.o.</p>
+                            <p class="pb-3 font-bold">Fujitsu Recognition Award for Implementations in Data Configuration</p>
+                            <p class="pb-2">01/2020 | Fujitsu Technology Solutions Sp. z o.o.</p>
+                            <p class="pb-3 font-bold">Fujitsu Recognition Award for Coordinating S&R in a Team</p>
+                            <p class="pb-2">07/2017 | Fujitsu Technology Solutions Sp. z o.o.</p>
+                            <p class="pb-3 font-bold">Fujitsu Centrica Finest Award for Best Performance</p>
+                        </div>
                     </div>
                     <div data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="800" class="flex flex-col mt-14">
                         <h1 class="text-xl font-semibold">
@@ -169,7 +180,7 @@
                                 <div class="bg-black" style="width:1px; height: 73px">
                                 </div>
                             </div>
-                            <div class="flex flex-col border-b-2" style="padding-bottom: 26px">
+                            <div class="flex flex-col border-b-2" style="padding-bottom: 15px">
                                 <p class="pt-2 tracking-wide text-sm">
                                     11/2021 - 03/2024 | Takeda S.C.E
                                 </p>
@@ -230,10 +241,14 @@
                             <div class="flex flex-col pr-4 pt-3 items-center">
                                 <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
                                 </button>
-                                <div class="bg-black" style="width:1px; height: 34px">
+                                <div class="bg-black" style="width:1px; height: 43px">
+                                </div>
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 43px">
                                 </div>
                             </div>
-                            <div class="flex flex-col border-b-2" style="padding-bottom: 18px">
+                            <div class="flex flex-col border-b-2" style="padding-bottom: 15px">
                                 <p class="pt-2 tracking-wide text-sm">
                                     10/2014 - 07/2016 | University of Lodz
                                 </p>
@@ -244,7 +259,7 @@
                                     09/2015 - 05/2016 | University of the West of Scotland
                                 </p>
                                 <h1 class="font-bold pb-1">
-                                    Master - Management - International Management
+                                    Master - Management - International Mgmt
                                 </h1>
                             </div>
                         </div>
