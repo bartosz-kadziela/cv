@@ -14,8 +14,8 @@
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     </head>
-    <div data-aos="fade-down" data-aos-easing="ease-in-sine" data-aos-duration="800">
-        <body class="bg-[url('/images/background.svg')]" style="font-family:Poppins">
+    <body style="font-family:Poppins; background-image:url('/images/background.svg')">
+        <div data-aos="fade-down" data-aos-easing="ease-in-sine" data-aos-duration="800">
             <div class="flex flex-col w-full max-w-2xl mx-auto drop-shadow-xl">
                 <header class="relative" style="height:170px; background-color:rgb(173,33,57)">
                     <img src="/images/Cv_photo.jpg" alt="CV avatar photo" data-aos="fade-down-right" data-aos-easing="ease-in-sine" data-aos-duration="1150" tabindex="0" class="focus:animate-bounce transition-colors duration-300 cursor-pointer absolute inset-0 rounded-full border-8 border-white hover:border-black m-2" style="height: 210px">
@@ -81,7 +81,7 @@
                     </div>
                 </header>
                 <main class="bg-white flex flex-row" style="height: 2000px">
-                    <div data-aos="fade-right" data-aos-easing="ease-in-sine" data-aos-duration="800" class="flex flex-col mt-14 mx-7 w-1/4">
+                    <div data-aos="fade-right" data-aos-easing="ease-in-sine" data-aos-duration="800" class="flex flex-col mt-14 mx-7" style="width: 30%">
                         <h1 class="text-xl font-semibold">
                             About Me
                         </h1>
@@ -96,16 +96,16 @@
                         <p>
                         <div class="pt-4 font-normal flex flex-row" style="font-size:10px">
                             <a href="https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA" class="hover:underline flex inline-flex focus:animate-bounce" target="_blank">
-                                <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-0.5">
-                                <p>
+                                <img src="/images/locationpin.svg" alt="Locationpin icon" class="h-4 mr-1">
+                                <div>
                                     Lodz, Poland
-                                </p>
+                                </div>
                             </a>
                             <a href="https://en.wikipedia.org/wiki/May_26" class="hover:underline flex inline-flex focus:animate-bounce" target="_blank">
-                                <img src="/images/calendar.svg" alt="Calendar icon" class="h-4 ml-2 mr-1 focus:animate-bounce">
-                                <p>
+                                <img src="/images/calendar.svg" alt="Calendar icon" class="h-4 mr-1 ml-2 focus:animate-bounce">
+                                <div>
                                     26/05/1992
-                                </p>
+                                </div>
                             </a>
                         </div>
                         <h1 class="pt-5 mt-5 border-t-2 text-xl font-semibold">
@@ -241,11 +241,11 @@
                             <div class="flex flex-col pr-4 pt-3 items-center">
                                 <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
                                 </button>
-                                <div class="bg-black" style="width:1px; height: 43px">
+                                <div class="bg-black" style="width:1px; height: 44px">
                                 </div>
                                 <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
                                 </button>
-                                <div class="bg-black" style="width:1px; height: 43px">
+                                <div class="bg-black" style="width:1px; height: 28px">
                                 </div>
                             </div>
                             <div class="flex flex-col border-b-2" style="padding-bottom: 15px">
@@ -263,6 +263,95 @@
                                 </h1>
                             </div>
                         </div>
+                        <h1 class="pt-5 text-xl font-semibold">
+                            Trainings & Certifications
+                        </h1>
+                        <div class="flex flex-row">
+                            <div class="flex flex-col pr-4 pt-3 items-center">
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 44px">
+                                </div>
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 44px">
+                                </div>
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 44px">
+                                </div>
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 68px">
+                                </div>
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 44px">
+                                </div>
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 68px">
+                                </div>
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 44px">
+                                </div>
+                                <button class="hover:bg-black focus:animate-pulse cursor-pointer focus:ring focus:ring-slate-500 border-2 border-black h-3 w-3 rounded-full"style="border-width:1,5px">
+                                </button>
+                                <div class="bg-black" style="width:1px; height: 44px">
+                                </div>
+                            </div>
+                            <div class="flex flex-col mr-7" style="padding-bottom: 15px">
+                                <p class="pt-2 tracking-wide text-sm">
+                                    05/2023 | Takeda S.C.E
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Service Now Reports & Dashboards
+                                </h1>
+                                <p class="pt-2 tracking-wide text-sm">
+                                    08/2022 | Takeda S.C.E
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Agile Foundations
+                                </h1>
+                                <p class="pt-2 tracking-wide text-sm">
+                                    11/2021 | Takeda S.C.E
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Visual Task Board (Agile)
+                                </h1>
+                                <p class="pt-2 tracking-wide text-sm">
+                                    09/2020 | Fujitsu Technology Solutions Sp. z o.o.
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Cyclic Knowledge transfer trainings for Primergy Products
+                                </h1>
+                                <p class="pt-2 tracking-wide text-sm">
+                                    11/2018 | Fujitsu Technology Solutions Sp. z o.o.
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Effective Time Management Workshop
+                                </h1>
+                                <p class="pt-2 tracking-wide text-sm">
+                                    12/2017 | Fujitsu Technology Solutions Sp. z o.o.
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Information Technology Infrastructure Library Workshop
+                                </h1>
+                                <p class="pt-2 tracking-wide text-sm">
+                                    09/2017 | Fujitsu Technology Solutions Sp. z o.o.
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Sense and Respond for Activists Workshop
+                                </h1>
+                                <p class="pt-2 tracking-wide text-sm">
+                                    07/2015 | University of Cambridge
+                                </p>
+                                <h1 class="font-bold pb-1">
+                                    Certificate in Advanced English C1
+                                </h1>
+                            </div>
+                        </div>
                     </div>
                 </main>
                 <footer data-aos="zoom-out-down" data-aos-easing="ease-in-sine" data-aos-duration="1150" class="bg-red-700" style="height: 59px; font-size:9px; background-color:rgb(173,33,57)">
@@ -275,6 +364,6 @@
         <script>
             AOS.init();
         </script>
-        </body>
-    </div>
+        </div>
+    </body>
 </html>
