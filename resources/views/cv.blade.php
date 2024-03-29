@@ -15,11 +15,9 @@
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     </head>
     <body style="font-family:Poppins; background-image:url('/images/background.svg')">
-        <div>
-            <button id="scrollToBottomBtn">
-                Scroll to Bottom
-            </button>
-        </div>
+        <button class="flex flex-row items-center animate-bounce" data-aos="fade-up-left" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1150" id="scrollToBottomBtn">
+            <img src="/images/arrow_down.svg" alt="Arrow down icon" class="h-8">
+        </button>
         <div data-aos="fade-down" data-aos-easing="ease-in-sine" data-aos-duration="800">
             <div class="flex flex-col w-full max-w-2xl mx-auto drop-shadow-xl">
                 <header class="relative" style="height:170px; background-color:rgb(173,33,57)">
@@ -67,7 +65,7 @@
                                 Download CV
                             </button>
                             <div class="content" style="font-size:10px">
-                                <div class="flex flex-col">
+                                <div class="flex flex-col font-semibold">
                                     <a href="pdf/CV_EN _Bartosz_Kadziela_2024.pdf" download="CV_EN _Bartosz_Kadziela_2024.pdf" class="hover:underline hover:animate-pulse" target="_blank">
                                         <button class="flex flex-row justify-center pb-0.5">
                                             <img src="/images/download.svg" alt="Download EN CV" class="h-4 pr-2">

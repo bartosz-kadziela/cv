@@ -38,7 +38,7 @@
     bottom: 20px;
     right: 20px;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: rgb(173,33,57);
     color: white;
     border: none;
     border-radius: 5px;
@@ -46,6 +46,3 @@
     z-index: 1000;
 }
 
-#scrollToBottomBtn:hover {
-    background-color: #0056b3;
-}
