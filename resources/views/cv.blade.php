@@ -73,7 +73,7 @@
                                     This CV
                                 </p>
                                 <div class="flex flex-col">
-                                    <a href="https://en.wikipedia.org/wiki/Rabbit" class="pl-1 custom-hover" target="_blank">
+                                    <a href="https://bartosz.kadziela.pl/bezaibrownie/" class="pl-1 custom-hover" target="_blank">
                                         <button class="flex flex-row justify-center pb-0.5">
                                             <img src="/images/bunny_icon.svg" alt="Bunny icon" class="h-4 pr-1">
                                             Beza & Brownie
