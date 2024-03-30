@@ -152,11 +152,17 @@
                     </h1>
                     <div class="pt-2 flex flex-col font-light tracking-wide" style="font-size:10px">
                         <p class="pb-2">02/2020 | Fujitsu Technology Solutions Sp. z o.o.</p>
-                        <p class="pb-3 font-bold">Fujitsu Recognition Award for Implementations in Data Configuration</p>
+                        <a href="https://cloud.everestserver.pl/s/tTgfJqJrb2N4sM3" class="hover:underline" target="_blank">
+                            <p class="pb-3 font-bold">Fujitsu Recognition Award for Implementations in Data Configuration</p>
+                        </a>
                         <p class="pb-2">01/2020 | Fujitsu Technology Solutions Sp. z o.o.</p>
-                        <p class="pb-3 font-bold">Fujitsu Recognition Award for Coordinating S&R in a Team</p>
+                        <a href="https://cloud.everestserver.pl/s/fujitsu-recognition-award" class="hover:underline" target="_blank">
+                            <p class="pb-3 font-bold">Fujitsu Recognition Award for Coordinating S&R in a Team</p>
+                        </a>
                         <p class="pb-2">07/2017 | Fujitsu Technology Solutions Sp. z o.o.</p>
-                        <p class="pb-3 font-bold">Fujitsu Centrica Finest Award for Best Performance</p>
+                        <a href="https://cloud.everestserver.pl/s/centrica-finest-award" class="hover:underline" target="_blank">
+                            <p class="pb-3 font-bold">Fujitsu Centrica Finest Award for Best Performance</p>
+                        </a>
                     </div>
                     <h1 class="pt-5 mt-5 border-t-2 text-xl font-semibold">
                         Pro Bono Work
@@ -279,9 +285,11 @@
                             <p class="pt-2 tracking-wide text-sm">
                                 09/2015 - 05/2016 | University of the West of Scotland
                             </p>
-                            <h1 class="font-bold pb-1">
-                                Master - Management - International Mgmt
-                            </h1>
+                            <a href="https://cloud.everestserver.pl/s/4EQaMy4fEzBBj3J" class="hover:underline" target="_blank">
+                                <h1 class="font-bold pb-1">
+                                    Master - Management - Int'l. Management
+                                </h1>
+                            </a>
                         </div>
                     </div>
                     <h1 class="pt-5 text-xl font-semibold">
@@ -368,9 +376,11 @@
                             <p class="pt-2 tracking-wide text-sm">
                                 07/2015 | University of Cambridge
                             </p>
-                            <h1 class="font-bold pb-1">
-                                Certificate in Advanced English C1
-                            </h1>
+                            <a href="https://cloud.everestserver.pl/s/FbNfm2295GGAaEt" target="_blank" class="hover:underline">
+                                <h1 class="font-bold pb-1">
+                                    Certificate in Advanced English C1
+                                </h1>
+                            </a>
                         </div>
                     </div>
                 </div>
