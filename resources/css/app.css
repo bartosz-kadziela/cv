@@ -50,4 +50,21 @@
     background-color: #E2EBF0;
     transition: background-color 0.3s;
     text-decoration: underline;
-  }
+}
+
+/* CV Avatar image */
+#spin:focus {
+    animation: focus-spin 5s linear infinite;
+}
+
+@keyframes focus-spin {
+    0%, 100% {
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(-10deg);
+    }
+    75% {
+        transform: rotate(10deg);
+    }
+}
