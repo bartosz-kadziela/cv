@@ -29,7 +29,6 @@ document.addEventListener("DOMContentLoaded", function() {
     var scrollToBottomBtn = document.getElementById("scrollToBottomBtn");
 
     if (mobile) {
-        alert("MOBILE DEVICE!!");
         scrollToBottomBtn.style.display = "none";
     }
 
