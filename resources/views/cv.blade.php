@@ -15,7 +15,7 @@
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     </head>
     <body style="font-family:Poppins; background-image:url('/images/background.svg')">
-        <button class="flex flex-row items-center animate-bounce" data-aos="fade-up-left" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1150" id="scrollToBottomBtn">
+        <button data-aos="fade-up-left" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1150" id="scrollToBottomBtn">
             <img src="/images/arrow_down.svg" alt="Arrow down icon" class="h-8">
         </button>
         <div class="flex flex-col w-full max-w-2xl mx-auto shadow-xl" data-aos="fade-down" data-aos-easing="ease-in-sine" data-aos-duration="800">

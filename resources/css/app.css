@@ -43,6 +43,20 @@
     border-radius: 5px;
     cursor: pointer;
     z-index: 1000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    animation: button-bounce 4s ease infinite;
+}
+
+@keyframes button-bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-18px);
+    }
 }
 
 /* Custom Hover for Download CV button items*/
