@@ -6,6 +6,7 @@
         <title>
             Bartosz Kądziela - CV
         </title>
+        <link rel="icon" type="image/svg+xml" href="images/bk_icon.svg">
         @vite('resources/js/app.js')
         @vite('resources/css/app.css')
         <link rel="preconnect" href="https://fonts.googleapis.com">
