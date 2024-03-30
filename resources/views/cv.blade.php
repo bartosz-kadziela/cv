@@ -65,7 +65,7 @@
                         </button>
                         <div class="content" style="font-size:10px">
                             <div class="font-semibold flex flex-col">
-                                <a href="pdf/CV_EN _Bartosz_Kadziela_2024.pdf" download="CV_EN _Bartosz_Kadziela_2024.pdf" class="pl-1   custom-hover" target="_blank">
+                                <a href="pdf/CV_EN_Bartosz_Kadziela_2024.pdf" download="CV_EN_Bartosz_Kadziela_2024.pdf" class="pl-1   custom-hover" target="_blank">
                                     <button class="flex flex-row justify-center pb-0.5">
                                         <img src="/images/download.svg" alt="Download EN CV" class="h-4 pr-1">
                                         English
