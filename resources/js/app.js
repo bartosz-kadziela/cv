@@ -25,8 +25,13 @@ if (currentPath === "/") {
 //Scroll page
 
 document.addEventListener("DOMContentLoaded", function() {
-
+    var mobile = (/iphone|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
     var scrollToBottomBtn = document.getElementById("scrollToBottomBtn");
+
+    if (mobile) {
+        alert("MOBILE DEVICE!!");
+        scrollToBottomBtn.style.display = "none";
+    }
 
     scrollToBottomBtn.addEventListener("click", function() {
 
